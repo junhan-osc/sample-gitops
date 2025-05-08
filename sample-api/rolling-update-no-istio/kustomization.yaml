@@ -9,5 +9,3 @@ resources:
 images:
 - name: junhanosc/sample-api
   newTag: 0.0.1
-- name: oscka/sample-api
-  newTag: 0.0.24
